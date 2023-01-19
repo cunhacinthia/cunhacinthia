@@ -16,3 +16,8 @@
   <a href="https://api.whatsapp.com/send?phone=5511986713273"><img src="https://user-images.githubusercontent.com/122987929/213334174-ff06ef33-8141-4ebe-b41d-919d89231659.JPG" width="40px"></a> 
   <a href="https://instagram.com/cinthiacunha_" target="_blank"><img src="https://user-images.githubusercontent.com/122987929/213333062-e163e5ed-0fb4-48dd-8f98-c6466e1e60c5.JPG" width="40px"</a>
 </div>
+
+<div align="center">
+        <p></p>
+  <p aling="center"> "A única maneira de não cometer erros é fazendo nada. Este, no entanto, é certamente um dos maiores erros que se poderia cometer em toda uma existência." - Confúcio</p>
+</div>
