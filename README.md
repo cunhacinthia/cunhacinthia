@@ -18,6 +18,6 @@
 </div>
 
 <div align="center">
-        <p></p>
+  <br/>
   <p aling="center"> "A única maneira de não cometer erros é fazendo nada. Este, no entanto, é certamente um dos maiores erros que se poderia cometer em toda uma existência." - Confúcio</p>
 </div>
